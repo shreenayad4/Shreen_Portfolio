@@ -1,5 +1,5 @@
 import { Project, SkillCategory, Certification, EducationItem, ServiceItem, LanguageItem } from '../types';
-import profileImage from '../assets/images/profile_shreen_1789378712707.jpg';
+import heroImage from '../assets/images/data_analytics_hero_1789379559109.jpg';
 export const PERSONAL_INFO = {
   name: 'SHREEN REDA AYAD',
   title: 'Data Analyst | Computer Science & Mathematics Student',
@@ -12,7 +12,7 @@ export const PERSONAL_INFO = {
   linkedinDisplay: 'linkedin.com/in/shreen-ayad',
   github: 'https://github.com/shreenayad4',
   githubDisplay: 'github.com/shreenayad4',
-  photoUrl: profileImage,
+  photoUrl: heroImage,
 };
 
 export const ABOUT_TEXT = `I am a Computer Science & Mathematics student at Menofia University (Faculty of Science) and currently enrolled in the intensive Professional Data Analysis Track at the Digital Egypt Pioneers Initiative (DEPI) under the Ministry of Communications and Information Technology.
